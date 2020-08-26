@@ -2,3 +2,7 @@ This is a model used to predict the presence of disease in a plant and also clas
 
 
 Dataset - https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data
+
+Private Score(50% of test data) is shown in the middle while Public Score(remaining 50% of test data) is shown on far right.
+
+![Score](/Score.png)
